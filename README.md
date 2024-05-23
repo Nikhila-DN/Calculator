@@ -1,6 +1,6 @@
 # Calculator
 
-![Design preview for the Calculator](.calculator-img.png)
+![Design preview for the Calculator](./calculator-img.png)
 
 ### Links
 
